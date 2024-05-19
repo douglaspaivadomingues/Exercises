@@ -1,0 +1,4 @@
+nome idade
+Maria 69
+Douglas 37
+Túlio 22

@@ -29,4 +29,4 @@ const Samus = new LongRangeCharacter();
 yoshi.talk();
 yoshi.SpecialMove();
 Samus.talk();
-Samus.SpecialMove();
+Samus.SpecialMove
